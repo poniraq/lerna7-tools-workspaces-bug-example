@@ -1,0 +1,12 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "dummy dependency package #1",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

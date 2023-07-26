@@ -1,0 +1,10 @@
+{
+  "name": "bar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "dummy dependency package #2",
+  "main": "index.js",
+  "scripts": {
+  },
+  "license": "ISC"
+}

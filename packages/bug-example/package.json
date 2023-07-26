@@ -1,0 +1,14 @@
+{
+  "name": "bug-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "bug reproduction package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@rnx-kit/tools-workspaces": "^0.1.3"
+  }
+}

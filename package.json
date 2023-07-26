@@ -1,0 +1,13 @@
+{
+  "name": "lerna7-tools-workspaces-bug-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "lerna 7+ & @rnx-kit/tools-workspaces bug example",
+  "scripts": {
+    "start": "lerna run --scope bug-example start"
+  },
+  "devDependencies": {
+    "lerna": "^7.1.4"
+  },
+  "dependencies": {}
+}
